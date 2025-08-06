@@ -1,0 +1,4 @@
+[submodule "mxud"]
+	path = mxud
+	url = git@git.vauxoo.com:vauxoo/mxud.git
+	branch = 18.0
